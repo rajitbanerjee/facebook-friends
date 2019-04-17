@@ -4,7 +4,7 @@ COMP10050 Software Engineering Project 1, Assignment 1
 The program asks the user to provide as input from the command line the name of a Facebook user. 
 At most 6 users can be provided as input. 
 For each user, at most 4 friends can be provided as input. 
-To indicate that you do not want to add more users/friends of a user, press “Enter”.
+To indicate that no more users/friends need to be added, the "enter" key should be pressed.
 
 The program identifies at most 2 friends suggestions for the selected user. 
 Suggested friends aren't existing friends of the selected user. 
