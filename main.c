@@ -160,4 +160,3 @@ void suggestFriends(char user_choice[80], int index, char friendsUser[][80]) {
 		}
 	}
 }
-//end of main.c file

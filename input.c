@@ -37,4 +37,3 @@ int inputFriends(char friends[][80], char user_name[80]) {
     //return the number of friends provided as input for current user
     return i;
 }
-//end of input.c file

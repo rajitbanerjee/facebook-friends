@@ -51,4 +51,3 @@ void sort(int x, int numFriendsOfSuggestions[], char friendSuggestions[][80]) {
 		strcpy(friendSuggestions[maxIndex], swap);
 	}
 }
-//end of sorting.c file
