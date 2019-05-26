@@ -14,3 +14,5 @@ If two or more friends suggestions have the same number of friends, then they ar
 __Windows Users__  
 ```Download and execute run.exe ```
 
+Grade received: A+
+
