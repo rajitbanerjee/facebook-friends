@@ -10,6 +10,8 @@ Suggested friends aren't existing friends of the selected user.
 If there are more than two possible friend suggestions, then the two poeple with the most number of friends are suggested. 
 If two or more friends suggestions have the same number of friends, then they are displayed in alphabetical order.
 
+Detailed rules: [Assignment 1](https://docs.google.com/document/d/1NfRtzl-IRb-Ubu7RJvzIm9wY-gXtb6pxxenbYJtyaXM/edit#heading=h.cjxwdc55cy8r)
+
 ## Getting Started
 __Windows Users__  
 ```Download and execute run.exe ```
